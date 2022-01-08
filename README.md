@@ -1,2 +1,2 @@
-# demoprojects
+# demopr
 this my first repo
